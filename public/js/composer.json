@@ -1,0 +1,16 @@
+{
+    "name": "alex/js",
+    "require": {
+        "composer/composer": "^1.8"
+    },
+        "autoload": {
+        "classmap": ["D:/wamp64/www/PARCOURS_DEV_WEB_JUNIOR/PROJET4/model", "D:/wamp64/www/PARCOURS_DEV_WEB_JUNIOR/PROJET4/controller"]
+    },
+    "authors": [
+        {
+            "name": "EroohTik",
+            "email": "etik@runbox.com"
+        }
+    ]
+
+}
